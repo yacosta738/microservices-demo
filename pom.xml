@@ -48,7 +48,7 @@
 
 		<twitter4j.version>4.0.7</twitter4j.version>
 
-		<lombok.version>1.18.22</lombok.version>
+		<lombok.version>1.18.26</lombok.version>
 
 		<spring-boot.version>2.7.5</spring-boot.version>
 		<spring-kafka.version>2.9.2</spring-kafka.version>
