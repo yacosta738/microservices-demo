@@ -62,7 +62,7 @@
 
 		<springdoc-openapi-ui.version>1.6.15</springdoc-openapi-ui.version>
 
-		<kafka-streams.version>3.3.1</kafka-streams.version>
+		<kafka-streams.version>3.4.0</kafka-streams.version>
 		<kafka-clients.version>3.3.1</kafka-clients.version>
 		<kafka-avro-serializer.version>7.3.2</kafka-avro-serializer.version>
 		<kafka-streams-avro-serde.version>7.3.2</kafka-streams-avro-serde.version>
