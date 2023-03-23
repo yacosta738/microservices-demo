@@ -44,7 +44,7 @@
 	<properties>
 		<java.version>11</java.version>
 
-		<maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
+		<maven-compiler-plugin.version>3.11.0</maven-compiler-plugin.version>
 
 		<twitter4j.version>4.0.7</twitter4j.version>
 
