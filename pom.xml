@@ -58,7 +58,7 @@
 		<spring-cloud-starter-circuitbreaker-reactor-resilience4j.version>2.1.6</spring-cloud-starter-circuitbreaker-reactor-resilience4j.version>
 		<spring-cloud-starter-zipkin.version>2.2.8.RELEASE</spring-cloud-starter-zipkin.version>
 
-		<elastic.version>8.6.2</elastic.version>
+		<elastic.version>8.13.0</elastic.version>
 
 		<springdoc-openapi-ui.version>1.6.15</springdoc-openapi-ui.version>
 
