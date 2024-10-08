@@ -66,7 +66,7 @@
 		<kafka-clients.version>7.3.2-ce</kafka-clients.version>
 		<kafka-avro-serializer.version>7.3.2</kafka-avro-serializer.version>
 		<kafka-streams-avro-serde.version>7.3.2</kafka-streams-avro-serde.version>
-		<avro.version>1.11.1</avro.version>
+		<avro.version>1.11.4</avro.version>
 
 		<micrometer-registry-prometheus.version>1.10.5</micrometer-registry-prometheus.version>
 
